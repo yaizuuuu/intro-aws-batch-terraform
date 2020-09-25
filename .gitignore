@@ -1,0 +1,5 @@
+.idea
+.terraform
+
+backend.tf
+terraform.tfvars
